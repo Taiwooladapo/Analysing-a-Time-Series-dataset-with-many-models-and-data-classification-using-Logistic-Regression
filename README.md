@@ -1,4 +1,4 @@
-# Analysing-a-Time-Series-dataset-with-many-models-and-data-classification-using-Logistic-Regression
+# Analysing-a-Time-Series-dataset-using-a-variety-of-models-and-data-classification-using-Logistic-Regression
 This project presents the results of two separate analyses: a time series analysis of monthly and yearly average temperatures in Armagh from 1844 to 2004, and a binary logistic regression analysis of a dataset containing details of blood samples of diabetic patients collected in an Iraqi University Hospital in 2020. The time series analysis provides insights into historical temperature variation patterns in Armagh and can inform future climate projections for the region. The logistic regression analysis facilitates diabetes diagnosis based on blood results and has implications for diabetes diagnosis and treatment in clinical settings. The two analyses detail the process of constructing the model, give an overview of the ultimate model parameters, assess pertinent assumptions, and evaluate the performance and fitness of the model.
 # WorkFlow
 PART A: Time Series Analyses
